@@ -1,2 +1,2 @@
 # pokedex-js
-Trilha JS Developer - Pokedex
+Trilha JS, HTML, CSS Developer - Pokedex Api
